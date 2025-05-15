@@ -8,5 +8,7 @@ Nota se descargara un directorio, nos metemos en ese directorio.
 vemos que hay un archivo llamado " nmap.sh "
 
 entramos en el con el comando..
-bash nmap.sh  
+ ─(root㉿kali)-[/home/kali/Pruevas/Escaneo-Automatizado]
+└─# bash nmap.sh
+ 
 
